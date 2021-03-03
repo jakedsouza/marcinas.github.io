@@ -2,15 +2,15 @@
 Emergence Simulation System
 ***************************************************************************************************
 
-	by Mark Peters
+	by Marceline Peters
 
 	A particle collider designed to test out and research emergence in multi-agent systems.
 
-	This system was designed and coded (except where noted below) by Mark Peters for two independent
+	This system was designed and coded (except where noted below) by Marceline Peters for two independent
 	study courses taken in the Winter 2017 quarter at University of Washington, Tacoma. The theories
 	that are the basis for the simulation come from a combination of the ideas of the two University
-	professors Mark worked under, Profs. Chris Marriott and George Mobus, various readings both peer-
-	reviewed and informal, and Mark's own interpretations and emergent discoveries. After graduation,
+	professors Marceline worked under, Profs. Chris Marriott and George Mobus, various readings both peer-
+	reviewed and informal, and Marceline's own interpretations and emergent discoveries. After graduation,
 	the simulation was further developed to explore the emergent phenomena within the system as the
 	basis for a research paper. It was also published on github to allow others to experience emergence.
 
@@ -63,12 +63,12 @@ Other Credits/Contributions
 ***************************************************************************************************
 
 alpha 0.1-0.4
-	@author Mark Peters / https://github.com/markinos
+	@author Marceline Peters / https://github.com/marcinas
 	@author Chris Marriott (for Zombies game, based on Bad Aliens)
 	@author Seth Ladd (for Bad Aliens game engine and his Google IO talk in 2011)
 
 beta 0.1-2.9
-	@author Mark Peters / https://github.com/markinos
+	@author Marceline Peters / https://github.com/marcinas
 	consists of the coding, some visuals and physics simulator from alpha 0.1-0.4
 		ported into a complete redesign based on protoplanets
 		https://threejs.org/examples/webgl_gpgpu_protoplanet.html
@@ -76,13 +76,13 @@ beta 0.1-2.9
 		https://github.com/mrdoob/three.js/blob/master/examples/webgl_gpgpu_protoplanet.html
 
 gamma 0.0-current
-	@author Mark Peters / https://github.com/markinos
+	@author Marceline Peters / https://github.com/marcinas
 
 	images/
 		all images made using GIMP
-		@author Mark Peters / https://github.com/markinos
+		@author Marceline Peters / https://github.com/marcinas
 		all dataurl files made from images and converted using dataurlmaker
-		@author Mark Peters / https://github.com/markinos (original images)
+		@author Marceline Peters / https://github.com/marcinas (original images)
 		@author Sveinbjorn Thordarson http://dataurl.net/ (conversion to Data URL)
 
 	js/
@@ -148,21 +148,21 @@ gamma 0.0-current
 			@author zz85 / http://github.com/zz85
 	simulation/
 		basic.js
-			@author Mark Peters / https://github.com/markinos
+			@author Marceline Peters / https://github.com/marcinas
 		controls.js
-			@author Mark Peters / https://github.com/markinos
+			@author Marceline Peters / https://github.com/marcinas
 		emergence.js
-			@author Mark Peters / https://github.com/markinos
+			@author Marceline Peters / https://github.com/marcinas
 		monad.js
-			@author Mark Peters / https://github.com/markinos
+			@author Marceline Peters / https://github.com/marcinas
 		statistics.js
-			@author Mark Peters / https://github.com/markinos
+			@author Marceline Peters / https://github.com/marcinas
 				(rewriting, adding custom metrics, changing function and appearance)
 			@author mrdoob / http://mrdoob.com/ (original, stats.min.js)
 		zones.js
-			@author Mark Peters / https://github.com/markinos
+			@author Marceline Peters / https://github.com/marcinas
 		emergence_simulation.html
-		@author Mark Peters / https://github.com/markinos
+		@author Marceline Peters / https://github.com/marcinas
 		@author mrdoob / http://mrdoob.com/ (for original layout and design on protoplanets)
 
 ****************************************************************************************************

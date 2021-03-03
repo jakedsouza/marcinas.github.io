@@ -1,6 +1,6 @@
 /**
  * Emergence Simulation System
- * @author Mark Peters / https://github.com/markinos
+ * @author Marceline Peters / https://github.com/marcinas
  * see readme for additional credits
  */
 

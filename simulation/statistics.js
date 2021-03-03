@@ -1,10 +1,10 @@
 /**
  * Emergence Simulation System
- * @author Mark Peters / https://github.com/markinos
+ * @author Marceline Peters / https://github.com/marcinas
  *
  * original: stats.js - http://github.com/mrdoob/stats.js
  * @author mr.doob / http://mrdoob.com/
- * modifications by Mark Peters
+ * modifications by Marceline Peters
  *
  * see readme for additional credits
  */

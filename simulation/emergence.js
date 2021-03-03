@@ -1,6 +1,6 @@
 /**
  * Emergence Simulation System
- * @author Mark Peters / https://github.com/markinos
+ * @author Marceline Peters / https://github.com/marcinas
  * see readme for additional credits
  */
 
@@ -93,7 +93,7 @@ Emergence.prototype.startup = function()
     this.MAX = this.controls.constant.maximum;//must be set after controls are instantiated
     this.monads = new Array(this.MAX).fill(null);//must also be set after controls; null because monads must be instantiated each with different parameters
 
-    debug("always","Emergence Simulation System System\n\tversion " + VERSION.CURRENT_VERSION + " at " + date() + "\nby Mark Peters (https://github.com/markinos)");
+    debug("always","Emergence Simulation System System\n\tversion " + VERSION.CURRENT_VERSION + " at " + date() + "\nby Marceline Peters (https://github.com/marcinas)");
     debug("startup",['THREE.WebGLRenderer 84',emergence.controls.hash,emergence]);//only try if debugInit set
 
     var debugging = this.controls.debug;
